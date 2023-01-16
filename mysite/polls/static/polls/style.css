@@ -1,0 +1,17 @@
+li a {
+    color: blueviolet;
+
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+form {
+    text-align: center;
+    font-size: 2em;
+}
+
+ul :hover{
+    color: goldenrod;
+}
