@@ -4,7 +4,8 @@ li a {
 }
 
 body{
-    background-color: blanchedalmond;
+    /* background-image: url(templates/bgg.jpeg); */
+    background-color: blanchedalmond; 
 }
 
 form {
@@ -15,3 +16,4 @@ form {
 ul :hover{
     color: goldenrod;
 }
+
